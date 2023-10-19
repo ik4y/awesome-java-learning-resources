@@ -14,9 +14,6 @@ This list contains awesome resources (books, courses) for learning Java whether 
 - _Clean Code by Robert C. Martin_
 - _Refactoring by Martin Fowler_
 - _Algorithms by Robert Sedgewick ***(Free)***_
-
-## Design Patterns
-
 - _Head First Design Patterns by Elisabeth Freeman_
 - _Design Patterns by Erich Gamma_
 
